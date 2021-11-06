@@ -1,3 +1,4 @@
-# heartattack prediction using Random Forest
+# heartattack prediction using Random Forest and Logistic regression
 
-Used random forest algorithm to predict heartattack.
+Logistic regression accuracy - 87.68%
+Random forest accuracy       - 87.31%
